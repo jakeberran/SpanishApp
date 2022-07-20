@@ -1,0 +1,4 @@
+kivy
+requests
+python-for-android
+json
